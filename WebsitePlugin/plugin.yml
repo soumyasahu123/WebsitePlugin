@@ -1,0 +1,8 @@
+name: WebsitePlugin
+version: 1.1
+author: rhys19
+main: me.rhys19.websiteplugin.WebsitePlugin
+commands:
+  Website:
+    description: Our website! register to our site to report players and donate and more!
+    aliases: [Web,Internet]
