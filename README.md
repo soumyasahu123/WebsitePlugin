@@ -1,3 +1,5 @@
+Amazing projct for website plugin
+--------------------------------
 Edit it with eclipse!
 Make sure to save it!
 Once edited export it as a jar file
